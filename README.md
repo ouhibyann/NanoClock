@@ -37,10 +37,19 @@ I didn't rebuild the wheel, and all the resources I used can be found on the off
 
 
 ---
-### Processing steps
+## Processing steps
 
 As silly as it may sound, the commits I pushed on this repo are the ordered steps one should use if it wants to iterate through the project and make it its own.
 I will detail each of them below.
+
+
+### Libs
+For this project, I am using the following libs:
+[Adafruit_AM2320](https://github.com/adafruit/Adafruit_AM2320)
+[Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)
+[Adafruit_Sensor](https://github.com/adafruit/Adafruit_Sensor)
+[Ds1302](https://github.com/Treboada/Ds1302)
+[MD_MAX72XX](https://github.com/MajicDesigns/MD_MAX72XX)
 
 ### 1st Step
 Once you got all the wiring above correct, you may use commit **_9a8c78fcfdc493acbdcceaf291e12aef836ca4d6_** as a 1st implementation.
